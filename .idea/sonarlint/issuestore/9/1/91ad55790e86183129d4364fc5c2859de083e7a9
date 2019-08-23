@@ -1,0 +1,24 @@
+
+bsquid:S1192+"KDefine a constant instead of duplicating this literal "##########" 3 times.(‰üùÇ
+Isquid:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+Isquid:S1199"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Isquid:S1199$"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‰üùÇ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(É©ş¿
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‰üùÇ
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(È‡Ë¥
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÅÒÔ•şÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(‰üùÇ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ïÂãÎùÿÿÿÿ
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ë£úáıÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èõùÊøÿÿÿÿ
